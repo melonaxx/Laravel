@@ -1,7 +1,3 @@
 # testgit
 my add contents;
-11111111
-222222222
-3333333333
-4444444444444
-5555555555
+this is mygit!
