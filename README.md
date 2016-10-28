@@ -1,3 +1,2 @@
-# testgit
-my add contents;
-this is mygit!
+http://laravelacademy.org/
+Mynote!
